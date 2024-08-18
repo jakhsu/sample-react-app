@@ -22,7 +22,7 @@ function App() {
           test 2 count is {count}
         </button>
         <p>
-          Push <code>src/App.tsx</code> and try to save to test hot module replacement.
+          Push <code>src/App.tsx</code> and try again to save to test hot module replacement.
         </p>
       </div>
       <p className="read-the-docs">
