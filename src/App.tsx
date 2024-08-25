@@ -20,7 +20,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Learn more about me, or don't. I'm just a sample React app. <a href="https://vitejs.dev/guide/features.html" target="_blank" rel="noopener">Read the Vite docs</a>.
+        Learn more about me, or don't. I'm just a sample React app.
       </p>
     </>
   )
