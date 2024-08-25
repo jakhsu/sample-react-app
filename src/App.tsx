@@ -20,7 +20,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Care less about me/her!, or don't. I'm not only a sample React app.
+        Care less about me/you!, or don't. I'm not only a sample React app.
       </p>
     </>
   )
