@@ -13,7 +13,7 @@ function App() {
       <h1>hi</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          test 3 count are {count}
+          test 4 count are {count}
         </button>
         <p>
           change <code>src/App.tsx</code> and try again to save to test hot module replacement.
