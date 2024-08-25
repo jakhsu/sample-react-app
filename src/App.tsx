@@ -20,7 +20,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Learn/chat/play/drink more about me/her!, or don't. I'm not only a sample React app.
+        Learn/chat/play/drink/eat more about me/her!, or don't. I'm not only a sample React app.
       </p>
     </>
   )
