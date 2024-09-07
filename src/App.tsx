@@ -16,7 +16,6 @@ function App() {
           test 4 count are {count}!!!
         </button>
         <p>
-          change <code>src/App.tsx</code> and try again to save to test hot module replacement.
         </p>
       </div>
       <p className="read-the-docs">
