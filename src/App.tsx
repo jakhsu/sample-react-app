@@ -12,9 +12,6 @@ function App() {
       </div>
       <h1>hello</h1>
       <div className="card">
-        <div>
-          hello world ;)
-        </div>
       </div>
     </>
   )
