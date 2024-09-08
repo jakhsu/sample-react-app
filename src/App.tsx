@@ -16,9 +16,6 @@ function App() {
           hello world ;)
         </div>
       </div>
-      <p className="read-the-docs">
-        Care more about me/you!, or don't. I'm not only a sample React app.
-      </p>
     </>
   )
 }
